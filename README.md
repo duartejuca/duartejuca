@@ -5,7 +5,7 @@
 - 💼 Trabalhando como Consultor na FINDES e desenvolvedor de jogos freelancer.
 - 🌱 Aprendendo mais sobre desenvolvimento em computação gráfica.
 
-[![duartejuca](https://github-readme-stats.vercel.app/api/top-langs/?username=duartejuca&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![duartejuca](https://github-readme-stats.vercel.app/api/top-langs/?username=duartejuca&hide=html&layout=compact&theme=dark)
 
 ## Skills
 **GameDev**<br />
