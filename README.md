@@ -1,11 +1,11 @@
 ## Sobre mim
 
-- 🤔 Apaixonada por games.
-- 🎓 Graduado em Engenharia de Software(2022), Especialista em Jogos Digitais(2021) e Designer de Produto(2007).
+- :video_game: Apaixonada por games.
+- :bomb: Graduado em Engenharia de Software(2022), Especialista em Jogos Digitais(2021) e Designer de Produto(2007).
 - 💼 Trabalhando como Consultor na FINDES e desenvolvedor de jogos freelancer.
-- 🌱 Aprendendo mais sobre desenvolvimento em computação gráfica.
+- :magnet: Aprendendo mais sobre desenvolvimento em computação gráfica.
 
-![duartejuca](https://github-readme-stats.vercel.app/api/top-langs/?username=duartejuca&hide=html&layout=compact&theme=dark)
+
 
 ## Skills
 **GameDev**<br />
@@ -23,6 +23,8 @@
 **Tools**<br />
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 
+![duartejuca](https://github-readme-stats.vercel.app/api/top-langs/?username=duartejuca&hide=html&layout=compact&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=duartejuca&theme=onedark)](https://github.com/duartejuca/github-profile-trophy)
 
 **Jogos**<br />
 <a href="https://steamcommunity.com/id/duartejuca/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
