@@ -1,8 +1,8 @@
 ## Sobre mim
 
-- :video_game: Apaixonada por games.
+- :video_game: Apaixonado por games.
 - :bomb: Graduado em Engenharia de Software(2022), Especialista em Jogos Digitais(2021) e Designer de Produto(2007).
-- 💼 Trabalhando como Consultor na FINDES e desenvolvedor de jogos freelancer.
+- 💼 Desenvolvedor de Sistemas WEBAPI (Backend) C# + .NET6-8 + EF.
 - :magnet: Aprendendo mais sobre desenvolvimento em computação gráfica.
 
 
