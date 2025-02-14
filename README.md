@@ -2,14 +2,15 @@
 
 - :video_game: Apaixonado por games.
 - :bomb: Graduado em Engenharia de Software(2022), Especialista em Jogos Digitais(2021) e Designer de Produto(2007).
-- 💼 Desenvolvedor de Sistemas WEBAPI (Backend) C# + .NET6-8 + EF.
-- :magnet: Aprendendo mais sobre desenvolvimento em computação gráfica.
+- 💼 Desenvolvedor de Sistemas WEBAPI (Backend) C# + .NET6-8 + EF, node + nestJS.
+- :magnet: Sempre aprendendo mais sobre desenvolvimento em computação gráfica.
 
 
 
 ## Skills
 **GameDev**<br />
-[![My Skills](https://skillicons.dev/icons?i=unity,vscode,visualstudio,cs,blender,firebase,git,windows,bitbucket)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,vscode,visualstudio,cs,blender,firebase,git,windows,bitbucket,docker,postgres)](https://skillicons.dev)
+
 
 **WebDev**<br />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
